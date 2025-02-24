@@ -38,13 +38,13 @@
 ---
 
 ## 💼 **Experience**
-### **Software Developer @ University of Florida (Feb 2024 – Present)**
+### **Software Developer - University of Florida (Feb 2024 – Present)**
 - Architected high-performance **Flask REST APIs** handling ~100K monthly academic requests via **PostgreSQL query optimization**.
 - Reduced **login latency from 2s to 250ms** using JWT-based admin authentication with caching.
 - Automated **Excel/CSV/JSON data ingestion pipelines** with **pandas**, cutting manual validation from 14hrs/week to **3hrs/week**.
 - Deployed React-based frontend on **AWS EC2 (t2.micro) behind Nginx**, ensuring **99.94% uptime** with CloudWatch alerts & auto-scaling.
 
-### **Software Development Engineer @ Tally Solutions (Sep 2021 – Jul 2022)**
+### **Software Development Engineer - Tally Solutions (Sep 2021 – Jul 2022)**
 - Led **OAuth 2.0 integration for Google/Microsoft**, enabling seamless authentication for **2M MAU**.
 - Optimized **authentication token retention with RSA-256 keys**, reducing login time from **5s to 200ms**.
 - Engineered a **cross-platform C++ system** with **thread pools, lock-free queues, and custom memory allocators**, cutting transaction latency by **30%**.
