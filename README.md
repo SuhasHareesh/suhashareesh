@@ -64,20 +64,20 @@
 - **Tech Stack:** C++, STL, pthreads
 - **Features:** Fast lookups, persistent storage, gRPC API
 - **Status:** 🚧 Work in Progress
-- 📂 **Private Project**
+- 📂 **[Repo](https://github.com/SuhasHareesh/HighPerfKVStore)**
 
 ### **🖥️ ClipSync (macOS Clipboard Manager)**
 - **Description:** A **clipboard management tool** for macOS storing the last 15 copied texts.
 - **Tech Stack:** Go, macOS LaunchDaemon, gRPC, React
 - **Features:** Background sync, hotkey-based pasting, minimal UI
 - **Status:** 🚧 In Development
-- 📂 **Private Project**
+- 📂 **[Repo](https://github.com/SuhasHareesh/clipsync)**
 
 ### **📜 Gainesville Business History App**
 - **Description:** Web app for exploring historical businesses in Gainesville, Florida.
 - **Tech Stack:** Python Flask, React, PostgreSQL, Dash
 - **Features:** Interactive graphs, searchable database, filtering by industry/year
-- 🔗 **[Live Demo](https://www.gainesvilleflbusinesshistory.com)** | 📂 **[Repo](#)**
+- 🔗 **[Live Demo](https://www.gainesvilleflbusinesshistory.com)** | 📂 **Private Project (Contains Data) 😪**
 
 ---
 
