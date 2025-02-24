@@ -25,7 +25,8 @@
 ### **Frontend & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Database & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,15 +38,17 @@
 ---
 
 ## 💼 **Experience**
-### **Software Developer - University of Florida | (Feb 2024 – Present)**
-- Developed a **Gainesville Business History & Oral History** web app using **Python Flask & React**.
-- Built **data visualization dashboards** for historical business trends in Gainesville.
-- Integrated **PostgreSQL** for scalable database management.
+### **Software Developer @ University of Florida (Feb 2024 – Present)**
+- Architected high-performance **Flask REST APIs** handling ~100K monthly academic requests via **PostgreSQL query optimization**.
+- Reduced **login latency from 2s to 250ms** using JWT-based admin authentication with caching.
+- Automated **Excel/CSV/JSON data ingestion pipelines** with **pandas**, cutting manual validation from 14hrs/week to **3hrs/week**.
+- Deployed React-based frontend on **AWS EC2 (t2.micro) behind Nginx**, ensuring **99.94% uptime** with CloudWatch alerts & auto-scaling.
 
-### **Software Engineer - Tally Solutions (2019 – 2021)**
-- Developed **low-latency, high-performance solutions** for **Tally Prime ERP**.
-- Integrated **OAuth authentication** for **Google & Microsoft**.
-- Enhanced **performance of business analytics reports** using optimized queries.
+### **Software Development Engineer @ Tally Solutions (Sep 2021 – Jul 2022)**
+- Led **OAuth 2.0 integration for Google/Microsoft**, enabling seamless authentication for **2M MAU**.
+- Optimized **authentication token retention with RSA-256 keys**, reducing login time from **5s to 200ms**.
+- Engineered a **cross-platform C++ system** with **thread pools, lock-free queues, and custom memory allocators**, cutting transaction latency by **30%**.
+- Developed a **file-based tree database** with **B+ tree indexing**, achieving **10K IOPS** and **60% faster read/write speeds** over legacy solutions.
 
 ---
 
@@ -79,6 +82,12 @@
 - **Features:** Interactive graphs, searchable database, filtering by industry/year
 - 🔗 **[Live Demo](https://www.gainesvilleflbusinesshistory.com)** | 📂 **Private Project (Contains Data) 😪**
 
+### **📝 GBH Oral History Site**
+- **Description:** A platform documenting **oral histories of Gainesville businesses**.
+- **Tech Stack:** React, Flask, PostgreSQL
+- **Features:** **Video interviews, transcripts, keyword-based search** with Admin functionality for historians to add new data.
+- 🔗 **[Live Demo](https://www.gbhoralhistories.com)** | 📂 **Private Project (Contains Data) 😪**
+
 ---
 
 ## 📊 **GitHub Stats**
@@ -97,8 +106,8 @@
 ---
 
 ## 🎸 **Fun Facts**
-- 🏎️ **Huge Formula 1 fan** – working on an **F1 analytics project** with a friend.
-- 🌍 Learning **Japanese** on the side.
+- 🏎️ **Huge Formula 1 fan** - I'm rooting for Scuderia Ferrari to win this year!😎
+- 🌍 **HUGE Anime Fan**!! And hence learning **Japanese** on the side.
 - 💪 Gym & fitness enthusiast – **trying to cut down weight!**
 
 ---
