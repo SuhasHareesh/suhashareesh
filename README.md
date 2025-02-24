@@ -9,10 +9,10 @@
 ---
 
 ## 🚀 **About Me**
-🔹 I'm a **Software Engineer** with experience in **C++, Python, Go, and Cloud Infrastructure**.
-🔹 I enjoy building **high-performance backend systems, scalable APIs, and cloud-native applications**.
-🔹 I have experience working with **database optimization, infrastructure management, and security protocols**.
-🔹 **Currently working on**: **ClipSync (macOS clipboard manager)** & **High-Performance Key-Value Store (C++)**.
+🔹 I'm a **Software Engineer** with experience in **C++, Python, Go, and Cloud Infrastructure**.<br>
+🔹 I enjoy building **high-performance backend systems, scalable APIs, and cloud-native applications**.<br>
+🔹 I have experience working with **database optimization, infrastructure management, and security protocols**.<br>
+🔹 **Currently working on**: **ClipSync (macOS clipboard manager)** & **High-Performance Key-Value Store (C++)**.<br>
 
 ---
 
@@ -50,10 +50,10 @@
 ---
 
 ## 🎓 **Education**
-🎓 **Master of Science in Computer Science** | **University of Florida**
+🎓 **Master of Science in Computer Science** | **University of Florida**<br>
 📌 **GPA:** 3.7/4.0
 
-🎓 **Bachelor of Engineering in Information Science** | **Siddaganga Institute of Technology**
+🎓 **Bachelor of Engineering in Information Science** | **Siddaganga Institute of Technology**<br>
 📌 **GPA:** 8.82/10.0
 
 ---
@@ -91,7 +91,7 @@
 
 ## 🌐 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas_G_H-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhas-hareesh/)<br>
-[![GitHub](https://img.shields.io/badge/GitHub-Suhas_Hareesh-black?style=for-the-badge&logo=github)](https://github.com/suhashareesh)
+[![GitHub](https://img.shields.io/badge/GitHub-Suhas_Hareesh-black?style=for-the-badge&logo=github)](https://github.com/suhashareesh)<br>
 📧 **Email:** suhashareesh09@gmail.com
 
 ---
