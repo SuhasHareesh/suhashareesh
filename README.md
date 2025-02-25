@@ -100,7 +100,7 @@
 
 ## 📊 **Leetcode Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhashareesh&show_icons=true&theme=dark" width="80%" />
+  <img src="https://leetcard.jacoblin.cool/SuhasHareesh?theme=dark&font=Karma" width="80%" />
 </p>
 
 ---
