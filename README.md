@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 **Leetcode Stats**
+## ⌨️  **Leetcode Stats**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SuhasHareesh?theme=dark&font=Karma" width="80%" />
 </p>
