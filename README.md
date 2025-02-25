@@ -101,6 +101,7 @@
 ## 🌐 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas_Harish-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhas-hareesh/)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-Suhas_Hareesh-black?style=for-the-badge&logo=github)](https://github.com/suhashareesh)<br>
+![LeetCode Stats](https://leetcode.card.workers.dev/SuhasHareesh?theme=default&font=baloo&extension=null)<br>
 📧 **Email:** suhashareesh09@gmail.com
 
 ---
