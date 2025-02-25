@@ -98,10 +98,16 @@
 
 ---
 
+## 📊 **Leetcode Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhashareesh&show_icons=true&theme=dark" width="80%" />
+</p>
+
+---
+
 ## 🌐 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas_Harish-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhas-hareesh/)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-Suhas_Hareesh-black?style=for-the-badge&logo=github)](https://github.com/suhashareesh)<br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/SuhasHareesh?theme=dark&font=Karma)
 📧 **Email:** suhashareesh09@gmail.com
 
 ---
