@@ -92,7 +92,7 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhashareesh&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhasHareesh&show_icons=true&theme=dark" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhashareesh&layout=compact&theme=dark" width="49%" />
 </p>
 
